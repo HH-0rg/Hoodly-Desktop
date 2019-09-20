@@ -31,7 +31,7 @@ TODO:
 - ``Create community dashboard page for new users``
 - ``Implement Add Memo functionality``
 - ``Create bundle.py for creating the appropriate database for the application``
-- write the chat engine
+- ``write the chat engine``
 - Create Main interaction pages for communities, complete wth a chatbox and event reminders
 - Create UserLogin system
 - Make search engine for communities so the "look up a community" search bar actually works.
